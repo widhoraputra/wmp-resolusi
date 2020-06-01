@@ -1,0 +1,5 @@
+wmp resolusi
+- belajar html
+- belajar css
+- belajar php
+- belajar javascript
